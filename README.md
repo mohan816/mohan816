@@ -1,6 +1,6 @@
 ### Hello Everyone 👋
 
-I am a Test Automation Engineer and good in problem solving.
+I am a Test Automation Engineer and Problem Solver.
 
 - 🔭 I’m currently working on Web based automation using Selenium WebDriver and Java.
 - 🌱 I’m currently learning advanced concepts of Data Structures and Algorithms.
