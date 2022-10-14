@@ -6,9 +6,6 @@ I am a Test Automation Engineer and Problem Solver.
 - 🌱 I’m currently learning advanced concepts of Data Structures and Algorithms.
 - 📫 My [LinkedIn](https://www.linkedin.com/in/mohanrajan-natarajan-sdet/) profile
 
-Connect with me -
-![image](https://user-images.githubusercontent.com/79554023/195832470-94888c66-7bc6-4a2a-97d5-e32755d77eb6.png)
-
 
 
 <!--
